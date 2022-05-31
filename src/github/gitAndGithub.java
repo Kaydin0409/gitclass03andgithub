@@ -6,6 +6,8 @@ public class gitAndGithub {
 		// TODO Auto-generated method stub
 		
 		System.out.println("today we learn github");
+		
+		System.out.println("Today is a very good day!");
 
 	}
 
